@@ -1,0 +1,42 @@
+[
+  {
+    "question": "年假有多少天",
+    "expected_title": "年假"
+  },
+  {
+    "question": "请假需要怎么申请",
+    "expected_title": "请假流程"
+  },
+  {
+    "question": "加班可以调休吗",
+    "expected_title": "加班和调休"
+  },
+  {
+    "question": "报销需要在多久内提交",
+    "expected_title": "报销流程"
+  },
+  {
+    "question": "客户资料能否发送到第三方平台",
+    "expected_title": "客户资料安全"
+  },
+  {
+    "question": "AI生成的内容可以直接交付吗",
+    "expected_title": "AI输出检查"
+  },
+  {
+    "question": "项目开始前需要确认什么",
+    "expected_title": "项目需求确认"
+  },
+  {
+    "question": "上线前需要做哪些确认",
+    "expected_title": "上线验收"
+  },
+  {
+    "question": "故障发生后先做什么",
+    "expected_title": "故障处理"
+  },
+  {
+    "question": "离职前需要交接什么",
+    "expected_title": "离职交接"
+  }
+]
