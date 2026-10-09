@@ -3,3 +3,5 @@ __pycache__/
 .idea/
 *.pyc
 data/*.sqlite
+knowledge.txt
+main_simple_backup.py
